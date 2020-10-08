@@ -5,7 +5,7 @@
 </p>
 
 <p>
-Play Mafia with your friends online, via Mafia-Discord-Bot.
+  Play <a href="https://en.wikipedia.org/wiki/Mafia_(party_game)">Mafia</a> with your friends online, via Mafia-Discord-Bot.
 </p>
 
 ## Contributing
